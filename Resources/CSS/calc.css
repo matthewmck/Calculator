@@ -1,0 +1,78 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	background: #D38312;
+	background: -webkit-linear-gradient(to right, #A83279, #D38312);
+	background: linear-gradient(to right, #A83279, #D38312); 
+	font-family: 'Roboto', sans-serif;
+}
+
+#calc {
+	background: rgba(0,0,0,0.7);
+	border-radius: 5px;
+	box-shadow: 0 8px 6px -6px black;
+	font-size: 1.4em;
+	line-height: 50px;
+	margin: 15% auto;
+	padding: 10px;
+	width: 380px;
+}
+
+#top, #bottom {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 5px; 
+}
+
+#clear {
+	background: #C0392B;
+	border: 1px solid black;
+	color: #F4F6F7;
+	cursor: pointer;
+	display: block;
+	height: 50px;
+	text-align: center;
+	width: 90px;
+}
+
+#clear:hover {background: #CD6155;}
+
+#screen {
+	background: #F2F3F4;
+	border: 1px solid black;
+	box-shadow: inset 0 0 10px #909497;
+	height: 50px;
+	margin-left: 10px;
+	padding: 0 5px;
+	text-align: right;
+	width: 255px;
+}
+
+.keys {
+	background: #1B2631;
+	border: 1px solid #101010;
+	color: #F4F6F7;
+	cursor: pointer;
+	height: 50px;
+	list-style: none;
+	text-align: center;
+	width: 90px;
+}
+
+.seven {border-top-left-radius: 8px;}
+
+.x {border-top-right-radius: 8px;}
+
+.zero {border-bottom-left-radius: 8px;}
+
+.plus {border-bottom-right-radius: 8px;}
+
+.keys:hover {background: #283747;}
+
+.equal {background: #D35400;}
+
+.equal:hover {background: #DC7633;}
