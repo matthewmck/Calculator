@@ -2,7 +2,7 @@
 Simple calculator that can perform basic operations - multiplication, division, addition, and subtraction.
 
 ## Screenshot
-![Enter Info](https://github.com/matthewmck/Todo-List/blob/master/Screenshot/Capture.JPG)
+![Enter Info](https://github.com/matthewmck/Calculator/blob/master/Screenshot/Capture.JPG)
 
 ## Demo
 [JSFiddle](https://jsfiddle.net/mattmck/0dd1cnth/)
