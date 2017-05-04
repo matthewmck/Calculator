@@ -12,6 +12,9 @@ Simple calculator that can perform basic operations - multiplication, division, 
 - CSS3
 - JavaScript
 
+## Components Used
+- [Google Fonts: Roboto](https://fonts.google.com/specimen/Roboto)
+
 ## Browser Support 
 - Chrome
 - Firefox
