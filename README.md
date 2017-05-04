@@ -5,7 +5,7 @@ Simple calculator that can perform basic operations - multiplication, division, 
 ![Enter Info](https://github.com/matthewmck/Calculator/blob/master/Screenshot/Capture.JPG)
 
 ## Demo
-[JSFiddle](https://jsfiddle.net/mattmck/0dd1cnth/)
+[JSFiddle](https://jsfiddle.net/mattmck/7vr6eoo5/)
 
 ## Technologies
 - HTML5
